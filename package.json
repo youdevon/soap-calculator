@@ -1,5 +1,6 @@
 {
   "name": "soap-calculator",
+   "homepage": "https://youdevon.github.io/soap-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
